@@ -1,0 +1,1207 @@
+# depslib dependency file v1.0
+1427137320 source:c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+	<iostream>
+
+1380307238 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\include\gl\glu.h
+	<GL/gl.h>
+
+1374001721 source:c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\canvas_c.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gl_canvas2d.h"
+
+1432404633 source:c:\users\inutiu\desktop\squarycpp\src\canvas_c.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<vector>
+	"Point.h"
+	"Circle.h"
+	"Squary.h"
+	"Propeller.h"
+	"Matrix2d.h"
+	"Car.h"
+	"Fake3d.h"
+	"Bezier.h"
+	"gl_canvas2d.h"
+
+1428407243 c:\users\inutiu\desktop\squarycpp\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\squarycpp\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\squarycpp\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\squarycpp\include\gl\glu.h
+	<GL/gl.h>
+
+1430184896 source:c:\users\inutiu\desktop\squarycpp\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1432402945 source:c:\users\inutiu\desktop\squarycpp\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1432402945 c:\users\inutiu\desktop\squarycpp\include\point.h
+
+1427771460 source:c:\users\inutiu\desktop\squarycpp\src\form.cpp
+	"Form.h"
+	<string.h>
+
+1428108920 c:\users\inutiu\desktop\squarycpp\include\form.h
+	"Point.h"
+
+1427766122 source:c:\users\inutiu\desktop\squarycpp\src\circle.cpp
+	"Circle.h"
+
+1427766110 c:\users\inutiu\desktop\squarycpp\include\circle.h
+	<Form.h>
+
+1430272869 source:c:\users\inutiu\desktop\squarycpp\src\propeller.cpp
+	"Propeller.h"
+	"gl_canvas2d.h"
+	<iostream>
+	<math.h>
+	"Matrix2d.h"
+
+1428001663 c:\users\inutiu\desktop\squarycpp\include\propeller.h
+	<Form.h>
+
+1428446894 source:c:\users\inutiu\desktop\squarycpp\src\matrix.cpp
+	"Matrix.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1427939062 c:\users\inutiu\desktop\squarycpp\include\matrix.h
+	"Point.h"
+	"math.h"
+
+1427909183 source:c:\users\inutiu\desktop\squarycpp\src\rectangle.cpp
+	"Rectangle.h"
+
+1427910155 c:\users\inutiu\desktop\squarycpp\include\rectangle.h
+	<Form.h>
+	<Point.h>
+
+1430224524 c:\users\inutiu\desktop\squarycpp\include\squary.h
+	<Form.h>
+	"Point.h"
+	"Matrix2d.h"
+
+1430224565 source:c:\users\inutiu\desktop\squarycpp\src\squary.cpp
+	"Squary.h"
+	<iostream>
+	"gl_canvas2d.h"
+
+1432403426 source:c:\users\inutiu\desktop\squarycpp\src\car.cpp
+	"Car.h"
+	<iostream>
+	"gl_canvas2d.h"
+
+1430224517 c:\users\inutiu\desktop\squarycpp\include\car.h
+	"Form.h"
+	"Matrix2d.h"
+	"Point.h"
+	<math.h>
+
+1428428607 c:\users\inutiu\desktop\squarycpp\include\fake3d.h
+	<Form.h>
+
+1429367025 source:c:\users\inutiu\desktop\squarycpp\src\fake3d.cpp
+	"Fake3d.h"
+	"gl_canvas2d.h"
+	<iostream>
+	<math.h>
+
+1432405242 source:c:\users\inutiu\desktop\squarycpp\src\bezier.cpp
+	"Bezier.h"
+	"gl_canvas2d.h"
+	<iostream>
+	<math.h>
+	"Matrix2d.h"
+
+1432405396 c:\users\inutiu\desktop\squarycpp\include\bezier.h
+	"Point.h"
+	"Car.h"
+	<vector>
+
+1430418760 c:\users\inutiu\desktop\squarycpp\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1431210078 source:c:\users\inutiu\desktop\squarycpp\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1432409954 source:c:\users\inutiu\desktop\cg\trabalhos\autorama\src\bezier.cpp
+	"Bezier.h"
+	"gl_canvas2d.h"
+	<iostream>
+	<math.h>
+	"Matrix2d.h"
+
+1432409586 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\bezier.h
+	"Point.h"
+	"Car.h"
+	<vector>
+
+1432407461 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\point.h
+
+1432407454 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\car.h
+	"Form.h"
+	"Matrix2d.h"
+	"Point.h"
+	<math.h>
+
+1428108920 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\form.h
+	"Point.h"
+
+1432408872 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1432408922 c:\users\inutiu\desktop\cg\trabalhos\autorama\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\cg\trabalhos\autorama\include\gl\glu.h
+	<GL/gl.h>
+
+1432410007 source:c:\users\inutiu\desktop\cg\trabalhos\autorama\src\car.cpp
+	"Car.h"
+	<iostream>
+	"gl_canvas2d.h"
+
+1427771460 source:c:\users\inutiu\desktop\cg\trabalhos\autorama\src\form.cpp
+	"Form.h"
+	<string.h>
+
+1432408939 source:c:\users\inutiu\desktop\cg\trabalhos\autorama\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1432408872 source:c:\users\inutiu\desktop\cg\trabalhos\autorama\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1432407454 source:c:\users\inutiu\desktop\cg\trabalhos\autorama\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1432409403 source:c:\users\inutiu\desktop\cg\trabalhos\autorama\src\canvas_c.cpp
+	<iostream>
+	"Point.h"
+	"Matrix2d.h"
+	"Bezier.h"
+	"gl_canvas2d.h"
+
+1435361335 source:c:\users\inutiu\desktop\canvas2d\src\bezier.cpp
+	"Bezier.h"
+	"gl_canvas2d.h"
+	<iostream>
+	<math.h>
+	"Matrix2d.h"
+
+1432409586 c:\users\inutiu\desktop\canvas2d\include\bezier.h
+	"Point.h"
+	"Car.h"
+	<vector>
+
+1432407461 c:\users\inutiu\desktop\canvas2d\include\point.h
+
+1432407454 c:\users\inutiu\desktop\canvas2d\include\car.h
+	"Form.h"
+	"Matrix2d.h"
+	"Point.h"
+	<math.h>
+
+1435360771 c:\users\inutiu\desktop\canvas2d\include\form.h
+	"Point.h"
+
+1432408872 c:\users\inutiu\desktop\canvas2d\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1432408922 c:\users\inutiu\desktop\canvas2d\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\canvas2d\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\canvas2d\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\canvas2d\include\gl\glu.h
+	<GL/gl.h>
+
+1435360939 source:c:\users\inutiu\desktop\canvas2d\src\canvas_c.cpp
+	<iostream>
+	"Point.h"
+	"Player.h"
+	"Matrix2d.h"
+	"gl_canvas2d.h"
+
+1432410007 source:c:\users\inutiu\desktop\canvas2d\src\car.cpp
+	"Car.h"
+	<iostream>
+	"gl_canvas2d.h"
+
+1427771460 source:c:\users\inutiu\desktop\canvas2d\src\form.cpp
+	"Form.h"
+	<string.h>
+
+1435361501 source:c:\users\inutiu\desktop\canvas2d\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1435360913 source:c:\users\inutiu\desktop\canvas2d\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1432407454 source:c:\users\inutiu\desktop\canvas2d\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1435359719 c:\users\inutiu\desktop\canvas2d\include\player.h
+	"Form.h"
+	"Matrix2d.h"
+	"Point.h"
+	<math.h>
+
+1435360393 source:c:\users\inutiu\desktop\canvas2d\src\player.cpp
+	"Player.h"
+	<iostream>
+	"gl_canvas2d.h"
+
+1435364936 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\bezier.cpp
+	"Bezier.h"
+	"gl_canvas2d.h"
+	<iostream>
+	<math.h>
+	"Matrix2d.h"
+
+1432413188 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\bezier.h
+	"Point.h"
+	"Car.h"
+	<vector>
+
+1449507852 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\point.h
+
+1432411056 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\car.h
+	"Form.h"
+	"Matrix2d.h"
+	"Point.h"
+	<math.h>
+
+1449611153 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\form.h
+	"Point.h"
+
+1449454452 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1432412524 c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	<GL/glut.h>
+
+924731306 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254356842 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\gl\gl.h
+
+1254356842 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\gl\glu.h
+	<GL/gl.h>
+
+1427775062 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\form.cpp
+	"Form.h"
+	<string.h>
+
+1449454452 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1449454452 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1449610902 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\player.cpp
+	"Player.h"
+	"gl_canvas2d.h"
+
+1449611110 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\player.h
+	"Form.h"
+	"Matrix2d.h"
+	<math.h>
+
+1449507942 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1449609152 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\canvas_c.cpp
+	<iostream>
+	"Point.h"
+	"Player.h"
+	"Actor.h"
+	"Matrix2d.h"
+	"gl_canvas2d.h"
+
+1449609924 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\actor.cpp
+	"Actor.h"
+	"gl_canvas2d.h"
+	"math.h"
+
+1449610914 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\actor.h
+	"Point.h"
+	"Matrix2d.h"
+	"Form.h"
+
+1449454742 source:c:\users\inutiu\desktop\bécãp\cg\canvas2d\src\steering.cpp
+	"Steering.h"
+
+1449458772 c:\users\inutiu\desktop\bécãp\cg\canvas2d\include\steering.h
+	"Actor.h"
+
+1449611319 source:c:\users\inutiu\desktop\the game\src\actor.cpp
+	"Actor.h"
+	"gl_canvas2d.h"
+	"math.h"
+
+1449618877 c:\users\inutiu\desktop\the game\include\actor.h
+	"Point.h"
+	"Matrix2d.h"
+	"Form.h"
+
+1450033173 c:\users\inutiu\desktop\the game\include\point.h
+
+1449450852 c:\users\inutiu\desktop\the game\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1450091492 c:\users\inutiu\desktop\the game\include\form.h
+	<vector>
+	"Color.h"
+	"Matrix2d.h"
+	"CircleSkeleton.h"
+	"Point.h"
+	"String.h"
+
+1450097085 c:\users\inutiu\desktop\the game\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	"Color.h"
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\the game\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\the game\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\the game\include\gl\glu.h
+	<GL/gl.h>
+
+1462461318 source:c:\users\inutiu\desktop\the game\src\canvas_c.cpp
+	<iostream>
+	<time.h>
+	"gl_canvas2d.h"
+	"GameManager.h"
+
+1450096605 c:\users\inutiu\desktop\the game\include\player.h
+	"Form.h"
+	"Matrix2d.h"
+	"Shot.h"
+	"HealthBar.h"
+	<math.h>
+
+1450030567 source:c:\users\inutiu\desktop\the game\src\form.cpp
+	"Form.h"
+	"gl_canvas2d.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1450095159 source:c:\users\inutiu\desktop\the game\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1449752763 source:c:\users\inutiu\desktop\the game\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1450033168 source:c:\users\inutiu\desktop\the game\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1450060568 source:c:\users\inutiu\desktop\the game\src\steering.cpp
+	"Steering.h"
+	"gl_canvas2d.h"
+
+1450059699 c:\users\inutiu\desktop\the game\include\steering.h
+	"Point.h"
+	"Form.h"
+	"Enemy.h"
+
+1450051817 source:c:\users\inutiu\desktop\the game\src\shot.cpp
+	"Shot.h"
+	"gl_canvas2d.h"
+	"string.h"
+
+1449939258 c:\users\inutiu\desktop\the game\include\shot.h
+	"Form.h"
+	"Circle.h"
+	"Player.h"
+
+1453773891 source:c:\users\inutiu\desktop\the game\src\player.cpp
+	"Player.h"
+	"gl_canvas2d.h"
+
+1450062328 c:\users\inutiu\desktop\the game\include\enemy.h
+	"Point.h"
+	"Matrix2d.h"
+	"Form.h"
+	"Player.h"
+	"Steering.h"
+
+1449965792 source:c:\users\inutiu\desktop\the game\src\enemy.cpp
+	"Enemy.h"
+	"gl_canvas2d.h"
+	"math.h"
+
+1449762156 c:\users\inutiu\desktop\the game\include\color.h
+
+1449762067 source:c:\users\inutiu\desktop\the game\src\color.cpp
+	"Color.h"
+	"gl_canvas2d.h"
+
+1450097413 source:c:\users\inutiu\desktop\the game\src\blindbird.cpp
+	"BlindBird.h"
+	"gl_canvas2d.h"
+
+1449964488 c:\users\inutiu\desktop\the game\include\blindbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450104102 source:c:\users\inutiu\desktop\the game\src\circlecollider.cpp
+	"CircleCollider.h"
+	<math.h>
+
+1450028972 c:\users\inutiu\desktop\the game\include\circlecollider.h
+	"Form.h"
+	"CircleSkeleton.h"
+	<vector>
+
+1450021768 c:\users\inutiu\desktop\the game\include\circle.h
+	"Point.h"
+
+1450021784 source:c:\users\inutiu\desktop\the game\src\circle.cpp
+	"Circle.h"
+
+1450030403 c:\users\inutiu\desktop\the game\include\circleskeleton.h
+	<stdio.h>
+	"Form.h"
+	"Circle.h"
+	"String.h"
+	<vector>
+
+1450105744 source:c:\users\inutiu\desktop\the game\src\circleskeleton.cpp
+	"CircleSkeleton.h"
+	"gl_canvas2d.h"
+
+1462472049 source:c:\users\inutiu\desktop\the game\src\gamemanager.cpp
+	"GameManager.h"
+	"gl_canvas2d.h"
+
+1450106061 c:\users\inutiu\desktop\the game\include\gamemanager.h
+	"CircleCollider.h"
+	"Point.h"
+	"Form.h"
+	"Player.h"
+	"Enemy.h"
+	"Matrix2d.h"
+	"BlindBird.h"
+	"FleeingBird.h"
+	"SeekingBird.h"
+	<vector>
+	<iostream>
+	<time.h>
+
+1453771519 c:\users\inutiu\desktop\the game\include\healthbar.h
+	"Player.h"
+
+1450052746 source:c:\users\inutiu\desktop\the game\src\healthbar.cpp
+	"HealthBar.h"
+	"gl_canvas2d.h"
+
+1450564789 source:c:\users\inutiu\desktop\the game\src\seekingbird.cpp
+	"SeekingBird.h"
+	"gl_canvas2d.h"
+
+1450053510 c:\users\inutiu\desktop\the game\include\seekingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450062675 c:\users\inutiu\desktop\the game\include\fleeingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1453772817 source:c:\users\inutiu\desktop\the game\src\fleeingbird.cpp
+	"FleeingBird.h"
+	"gl_canvas2d.h"
+
+1450097413 source:c:\users\inutiu\desktop\desktop\the game\src\blindbird.cpp
+	"BlindBird.h"
+	"gl_canvas2d.h"
+
+1449964488 c:\users\inutiu\desktop\desktop\the game\include\blindbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450062328 c:\users\inutiu\desktop\desktop\the game\include\enemy.h
+	"Point.h"
+	"Matrix2d.h"
+	"Form.h"
+	"Player.h"
+	"Steering.h"
+
+1450033173 c:\users\inutiu\desktop\desktop\the game\include\point.h
+
+1449450852 c:\users\inutiu\desktop\desktop\the game\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1450091492 c:\users\inutiu\desktop\desktop\the game\include\form.h
+	<vector>
+	"Color.h"
+	"Matrix2d.h"
+	"CircleSkeleton.h"
+	"Point.h"
+	"String.h"
+
+1449762156 c:\users\inutiu\desktop\desktop\the game\include\color.h
+
+1450030403 c:\users\inutiu\desktop\desktop\the game\include\circleskeleton.h
+	<stdio.h>
+	"Form.h"
+	"Circle.h"
+	"String.h"
+	<vector>
+
+1450021768 c:\users\inutiu\desktop\desktop\the game\include\circle.h
+	"Point.h"
+
+1450096605 c:\users\inutiu\desktop\desktop\the game\include\player.h
+	"Form.h"
+	"Matrix2d.h"
+	"Shot.h"
+	"HealthBar.h"
+	<math.h>
+
+1449939258 c:\users\inutiu\desktop\desktop\the game\include\shot.h
+	"Form.h"
+	"Circle.h"
+	"Player.h"
+
+1453771519 c:\users\inutiu\desktop\desktop\the game\include\healthbar.h
+	"Player.h"
+
+1450059699 c:\users\inutiu\desktop\desktop\the game\include\steering.h
+	"Point.h"
+	"Form.h"
+	"Enemy.h"
+
+1450097085 c:\users\inutiu\desktop\desktop\the game\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	"Color.h"
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\desktop\the game\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\desktop\the game\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\desktop\the game\include\gl\glu.h
+	<GL/gl.h>
+
+1450050416 source:c:\users\inutiu\desktop\desktop\the game\src\canvas_c.cpp
+	<iostream>
+	<time.h>
+	"gl_canvas2d.h"
+	"GameManager.h"
+
+1450106061 c:\users\inutiu\desktop\desktop\the game\include\gamemanager.h
+	"CircleCollider.h"
+	"Point.h"
+	"Form.h"
+	"Player.h"
+	"Enemy.h"
+	"Matrix2d.h"
+	"BlindBird.h"
+	"FleeingBird.h"
+	"SeekingBird.h"
+	<vector>
+	<iostream>
+	<time.h>
+
+1450028972 c:\users\inutiu\desktop\desktop\the game\include\circlecollider.h
+	"Form.h"
+	"CircleSkeleton.h"
+	<vector>
+
+1450062675 c:\users\inutiu\desktop\desktop\the game\include\fleeingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450053510 c:\users\inutiu\desktop\desktop\the game\include\seekingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450021784 source:c:\users\inutiu\desktop\desktop\the game\src\circle.cpp
+	"Circle.h"
+
+1450104102 source:c:\users\inutiu\desktop\desktop\the game\src\circlecollider.cpp
+	"CircleCollider.h"
+	<math.h>
+
+1450105744 source:c:\users\inutiu\desktop\desktop\the game\src\circleskeleton.cpp
+	"CircleSkeleton.h"
+	"gl_canvas2d.h"
+
+1449762067 source:c:\users\inutiu\desktop\desktop\the game\src\color.cpp
+	"Color.h"
+	"gl_canvas2d.h"
+
+1449965792 source:c:\users\inutiu\desktop\desktop\the game\src\enemy.cpp
+	"Enemy.h"
+	"gl_canvas2d.h"
+	"math.h"
+
+1453772817 source:c:\users\inutiu\desktop\desktop\the game\src\fleeingbird.cpp
+	"FleeingBird.h"
+	"gl_canvas2d.h"
+
+1450030567 source:c:\users\inutiu\desktop\desktop\the game\src\form.cpp
+	"Form.h"
+	"gl_canvas2d.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1450564694 source:c:\users\inutiu\desktop\desktop\the game\src\gamemanager.cpp
+	"GameManager.h"
+	"gl_canvas2d.h"
+
+1450095159 source:c:\users\inutiu\desktop\desktop\the game\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1450052746 source:c:\users\inutiu\desktop\desktop\the game\src\healthbar.cpp
+	"HealthBar.h"
+	"gl_canvas2d.h"
+
+1449752763 source:c:\users\inutiu\desktop\desktop\the game\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1453773891 source:c:\users\inutiu\desktop\desktop\the game\src\player.cpp
+	"Player.h"
+	"gl_canvas2d.h"
+
+1450033168 source:c:\users\inutiu\desktop\desktop\the game\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1450564789 source:c:\users\inutiu\desktop\desktop\the game\src\seekingbird.cpp
+	"SeekingBird.h"
+	"gl_canvas2d.h"
+
+1450051817 source:c:\users\inutiu\desktop\desktop\the game\src\shot.cpp
+	"Shot.h"
+	"gl_canvas2d.h"
+	"string.h"
+
+1450060568 source:c:\users\inutiu\desktop\desktop\the game\src\steering.cpp
+	"Steering.h"
+	"gl_canvas2d.h"
+
+1450119013 source:d:\rafael holzschuh de araujo\the game\src\blindbird.cpp
+	"BlindBird.h"
+	"gl_canvas2d.h"
+
+1449986088 d:\rafael holzschuh de araujo\the game\include\blindbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450083928 d:\rafael holzschuh de araujo\the game\include\enemy.h
+	"Point.h"
+	"Matrix2d.h"
+	"Form.h"
+	"Player.h"
+	"Steering.h"
+
+1450054773 d:\rafael holzschuh de araujo\the game\include\point.h
+
+1449472452 d:\rafael holzschuh de araujo\the game\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1450113092 d:\rafael holzschuh de araujo\the game\include\form.h
+	<vector>
+	"Color.h"
+	"Matrix2d.h"
+	"CircleSkeleton.h"
+	"Point.h"
+	"String.h"
+
+1449783756 d:\rafael holzschuh de araujo\the game\include\color.h
+
+1450052003 d:\rafael holzschuh de araujo\the game\include\circleskeleton.h
+	<stdio.h>
+	"Form.h"
+	"Circle.h"
+	"String.h"
+	<vector>
+
+1450043368 d:\rafael holzschuh de araujo\the game\include\circle.h
+	"Point.h"
+
+1450118205 d:\rafael holzschuh de araujo\the game\include\player.h
+	"Form.h"
+	"Matrix2d.h"
+	"Shot.h"
+	"HealthBar.h"
+	<math.h>
+
+1449960858 d:\rafael holzschuh de araujo\the game\include\shot.h
+	"Form.h"
+	"Circle.h"
+	"Player.h"
+
+1453793119 d:\rafael holzschuh de araujo\the game\include\healthbar.h
+	"Player.h"
+
+1450081299 d:\rafael holzschuh de araujo\the game\include\steering.h
+	"Point.h"
+	"Form.h"
+	"Enemy.h"
+
+1450118685 d:\rafael holzschuh de araujo\the game\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	"Color.h"
+	<GL/glut.h>
+
+924742106 d:\rafael holzschuh de araujo\the game\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254367642 d:\rafael holzschuh de araujo\the game\include\gl\gl.h
+
+1254367642 d:\rafael holzschuh de araujo\the game\include\gl\glu.h
+	<GL/gl.h>
+
+1462475718 source:d:\rafael holzschuh de araujo\the game\src\canvas_c.cpp
+	<iostream>
+	<time.h>
+	"gl_canvas2d.h"
+	"GameManager.h"
+
+1450127661 d:\rafael holzschuh de araujo\the game\include\gamemanager.h
+	"CircleCollider.h"
+	"Point.h"
+	"Form.h"
+	"Player.h"
+	"Enemy.h"
+	"Matrix2d.h"
+	"BlindBird.h"
+	"FleeingBird.h"
+	"SeekingBird.h"
+	<vector>
+	<iostream>
+	<time.h>
+
+1450050572 d:\rafael holzschuh de araujo\the game\include\circlecollider.h
+	"Form.h"
+	"CircleSkeleton.h"
+	<vector>
+
+1450084275 d:\rafael holzschuh de araujo\the game\include\fleeingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450075110 d:\rafael holzschuh de araujo\the game\include\seekingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450043384 source:d:\rafael holzschuh de araujo\the game\src\circle.cpp
+	"Circle.h"
+
+1450125702 source:d:\rafael holzschuh de araujo\the game\src\circlecollider.cpp
+	"CircleCollider.h"
+	<math.h>
+
+1450127344 source:d:\rafael holzschuh de araujo\the game\src\circleskeleton.cpp
+	"CircleSkeleton.h"
+	"gl_canvas2d.h"
+
+1449783667 source:d:\rafael holzschuh de araujo\the game\src\color.cpp
+	"Color.h"
+	"gl_canvas2d.h"
+
+1449987392 source:d:\rafael holzschuh de araujo\the game\src\enemy.cpp
+	"Enemy.h"
+	"gl_canvas2d.h"
+	"math.h"
+
+1453794417 source:d:\rafael holzschuh de araujo\the game\src\fleeingbird.cpp
+	"FleeingBird.h"
+	"gl_canvas2d.h"
+
+1524072564 source:d:\rafael holzschuh de araujo\the game\src\gamemanager.cpp
+	"GameManager.h"
+	"gl_canvas2d.h"
+
+1450116759 source:d:\rafael holzschuh de araujo\the game\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1450074346 source:d:\rafael holzschuh de araujo\the game\src\healthbar.cpp
+	"HealthBar.h"
+	"gl_canvas2d.h"
+
+1449774363 source:d:\rafael holzschuh de araujo\the game\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1512073715 source:d:\rafael holzschuh de araujo\the game\src\player.cpp
+	"Player.h"
+	"gl_canvas2d.h"
+
+1450054768 source:d:\rafael holzschuh de araujo\the game\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1450586389 source:d:\rafael holzschuh de araujo\the game\src\seekingbird.cpp
+	"SeekingBird.h"
+	"gl_canvas2d.h"
+
+1450082168 source:d:\rafael holzschuh de araujo\the game\src\steering.cpp
+	"Steering.h"
+	"gl_canvas2d.h"
+
+1464827112 source:d:\rafael holzschuh de araujo\the game\src\form.cpp
+	"Form.h"
+	"gl_canvas2d.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1464827024 source:d:\rafael holzschuh de araujo\the game\src\shot.cpp
+	"Shot.h"
+	"gl_canvas2d.h"
+	"string.h"
+
+1450097412 source:c:\users\inutiu\downloads\the game\src\blindbird.cpp
+	"BlindBird.h"
+	"gl_canvas2d.h"
+
+1449964488 c:\users\inutiu\downloads\the game\include\blindbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450062328 c:\users\inutiu\downloads\the game\include\enemy.h
+	"Point.h"
+	"Matrix2d.h"
+	"Form.h"
+	"Player.h"
+	"Steering.h"
+
+1450033172 c:\users\inutiu\downloads\the game\include\point.h
+
+1449450852 c:\users\inutiu\downloads\the game\include\matrix2d.h
+	"Point.h"
+	"math.h"
+
+1450091492 c:\users\inutiu\downloads\the game\include\form.h
+	<vector>
+	"Color.h"
+	"Matrix2d.h"
+	"CircleSkeleton.h"
+	"Point.h"
+	"String.h"
+
+1449762156 c:\users\inutiu\downloads\the game\include\color.h
+
+1450030402 c:\users\inutiu\downloads\the game\include\circleskeleton.h
+	<stdio.h>
+	"Form.h"
+	"Circle.h"
+	"String.h"
+	<vector>
+
+1450021768 c:\users\inutiu\downloads\the game\include\circle.h
+	"Point.h"
+
+1450096604 c:\users\inutiu\downloads\the game\include\player.h
+	"Form.h"
+	"Matrix2d.h"
+	"Shot.h"
+	"HealthBar.h"
+	<math.h>
+
+1449939258 c:\users\inutiu\downloads\the game\include\shot.h
+	"Form.h"
+	"Circle.h"
+	"Player.h"
+
+1453771518 c:\users\inutiu\downloads\the game\include\healthbar.h
+	"Player.h"
+
+1450059698 c:\users\inutiu\downloads\the game\include\steering.h
+	"Point.h"
+	"Form.h"
+	"Enemy.h"
+
+1450097084 c:\users\inutiu\downloads\the game\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	"Color.h"
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\downloads\the game\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\downloads\the game\include\gl\gl.h
+
+1254353242 c:\users\inutiu\downloads\the game\include\gl\glu.h
+	<GL/gl.h>
+
+1462461318 source:c:\users\inutiu\downloads\the game\src\canvas_c.cpp
+	<iostream>
+	<time.h>
+	"gl_canvas2d.h"
+	"GameManager.h"
+
+1450106060 c:\users\inutiu\downloads\the game\include\gamemanager.h
+	"CircleCollider.h"
+	"Point.h"
+	"Form.h"
+	"Player.h"
+	"Enemy.h"
+	"Matrix2d.h"
+	"BlindBird.h"
+	"FleeingBird.h"
+	"SeekingBird.h"
+	<vector>
+	<iostream>
+	<time.h>
+
+1450028972 c:\users\inutiu\downloads\the game\include\circlecollider.h
+	"Form.h"
+	"CircleSkeleton.h"
+	<vector>
+
+1450062674 c:\users\inutiu\downloads\the game\include\fleeingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450053510 c:\users\inutiu\downloads\the game\include\seekingbird.h
+	"Enemy.h"
+	"Player.h"
+
+1450021784 source:c:\users\inutiu\downloads\the game\src\circle.cpp
+	"Circle.h"
+
+1450104102 source:c:\users\inutiu\downloads\the game\src\circlecollider.cpp
+	"CircleCollider.h"
+	<math.h>
+
+1450105744 source:c:\users\inutiu\downloads\the game\src\circleskeleton.cpp
+	"CircleSkeleton.h"
+	"gl_canvas2d.h"
+
+1449762066 source:c:\users\inutiu\downloads\the game\src\color.cpp
+	"Color.h"
+	"gl_canvas2d.h"
+
+1449965792 source:c:\users\inutiu\downloads\the game\src\enemy.cpp
+	"Enemy.h"
+	"gl_canvas2d.h"
+	"math.h"
+
+1453772816 source:c:\users\inutiu\downloads\the game\src\fleeingbird.cpp
+	"FleeingBird.h"
+	"gl_canvas2d.h"
+
+1464812712 source:c:\users\inutiu\downloads\the game\src\form.cpp
+	"Form.h"
+	"gl_canvas2d.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1652309641 source:c:\users\inutiu\downloads\the game\src\gamemanager.cpp
+	"GameManager.h"
+	"gl_canvas2d.h"
+
+1450095158 source:c:\users\inutiu\downloads\the game\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1450052746 source:c:\users\inutiu\downloads\the game\src\healthbar.cpp
+	"HealthBar.h"
+	"gl_canvas2d.h"
+
+1449752762 source:c:\users\inutiu\downloads\the game\src\matrix2d.cpp
+	"Matrix2d.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1652315434 source:c:\users\inutiu\downloads\the game\src\player.cpp
+	"Player.h"
+	"gl_canvas2d.h"
+
+1450033168 source:c:\users\inutiu\downloads\the game\src\point.cpp
+	"Point.h"
+	<iostream>
+	<math.h>
+	"gl_canvas2d.h"
+
+1450564788 source:c:\users\inutiu\downloads\the game\src\seekingbird.cpp
+	"SeekingBird.h"
+	"gl_canvas2d.h"
+
+1464812624 source:c:\users\inutiu\downloads\the game\src\shot.cpp
+	"Shot.h"
+	"gl_canvas2d.h"
+	"string.h"
+
+1450060568 source:c:\users\inutiu\downloads\the game\src\steering.cpp
+	"Steering.h"
+	"gl_canvas2d.h"
+

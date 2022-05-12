@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="canvas C" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="__bin/Debug/canvas" prefix_auto="1" extension_auto="1" />
+				<Option object_output="__obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="__bin/Release/canvas" prefix_auto="1" extension_auto="1" />
+				<Option object_output="__obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add directory="lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="libglu32.a" />
+			<Add library="libglut32.a" />
+			<Add library="libopengl32.a" />
+		</Linker>
+		<Unit filename="include/BlindBird.h" />
+		<Unit filename="include/Circle.h" />
+		<Unit filename="include/CircleCollider.h" />
+		<Unit filename="include/CircleSkeleton.h" />
+		<Unit filename="include/Color.h" />
+		<Unit filename="include/Enemy.h" />
+		<Unit filename="include/FleeingBird.h" />
+		<Unit filename="include/Form.h" />
+		<Unit filename="include/GameManager.h" />
+		<Unit filename="include/HealthBar.h" />
+		<Unit filename="include/Matrix2d.h" />
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/Point.h" />
+		<Unit filename="include/SeekingBird.h" />
+		<Unit filename="include/Shot.h" />
+		<Unit filename="include/Steering.h" />
+		<Unit filename="src/BlindBird.cpp" />
+		<Unit filename="src/Circle.cpp" />
+		<Unit filename="src/CircleCollider.cpp" />
+		<Unit filename="src/CircleSkeleton.cpp" />
+		<Unit filename="src/Color.cpp" />
+		<Unit filename="src/Enemy.cpp" />
+		<Unit filename="src/FleeingBird.cpp" />
+		<Unit filename="src/Form.cpp" />
+		<Unit filename="src/GameManager.cpp" />
+		<Unit filename="src/HealthBar.cpp" />
+		<Unit filename="src/Matrix2d.cpp" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/Point.cpp" />
+		<Unit filename="src/SeekingBird.cpp" />
+		<Unit filename="src/Shot.cpp" />
+		<Unit filename="src/Steering.cpp" />
+		<Unit filename="src/canvas_c.cpp" />
+		<Unit filename="src/gl_canvas2d.cpp" />
+		<Unit filename="src/gl_canvas2d.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

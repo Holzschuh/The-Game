@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1380307246 source:c:\ufsm\disciplinas\computacao grafica\programas\gl_4_canvas\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1380307238 c:\ufsm\disciplinas\computacao grafica\programas\gl_4_canvas\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+
+924727706 c:\ufsm\disciplinas\computacao grafica\programas\gl_4_canvas\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\ufsm\disciplinas\computacao grafica\programas\gl_4_canvas\include\gl\gl.h
+
+1254353242 c:\ufsm\disciplinas\computacao grafica\programas\gl_4_canvas\include\gl\glu.h
+	<GL/gl.h>
+
+1369239813 source:c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\canvas_cpp.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+
+1380307238 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\include\gl\glu.h
+	<GL/gl.h>
+
+1193146154 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\bola.h
+	"gl_canvas2d.h"
+
+1193146156 c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\relogio.h
+	"gl_canvas2d.h"
+
+1380307246 source:c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1168267666 source:c:\users\inutiu\desktop\cg\demos\gl_4_canvas\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1369239813 source:c:\users\inutiu\desktop\squarycpp\src\canvas_cpp.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+
+1427851951 c:\users\inutiu\desktop\squarycpp\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	<GL/glut.h>
+
+924727706 c:\users\inutiu\desktop\squarycpp\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\desktop\squarycpp\include\gl\gl.h
+
+1254353242 c:\users\inutiu\desktop\squarycpp\include\gl\glu.h
+	<GL/gl.h>
+
+1193146154 c:\users\inutiu\desktop\squarycpp\src\bola.h
+	"gl_canvas2d.h"
+
+1193146156 c:\users\inutiu\desktop\squarycpp\src\relogio.h
+	"gl_canvas2d.h"
+
+1168267666 source:c:\users\inutiu\desktop\squarycpp\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1427851972 source:c:\users\inutiu\desktop\squarycpp\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
+1427810403 c:\users\inutiu\desktop\squarycpp\include\point.h
+
+1427505946 source:c:\users\inutiu\downloads\the game\src\canvas_cpp.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+
+1450097084 c:\users\inutiu\downloads\the game\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Point.h"
+	"Color.h"
+	<GL/glut.h>
+
+1450033172 c:\users\inutiu\downloads\the game\include\point.h
+
+1449762156 c:\users\inutiu\downloads\the game\include\color.h
+
+924727706 c:\users\inutiu\downloads\the game\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1254353242 c:\users\inutiu\downloads\the game\include\gl\gl.h
+
+1254353242 c:\users\inutiu\downloads\the game\include\gl\glu.h
+	<GL/gl.h>
+
+1450095158 source:c:\users\inutiu\downloads\the game\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	"Point.h"
+	<GL/glut.h>
+	<iostream>
+
